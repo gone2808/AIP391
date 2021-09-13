@@ -7,4 +7,4 @@
 
 ### Project
 
-- [literature review](https://docs.google.com/spreadsheets/d/1HVmVpj6bgk3F9iZ8Wj2Kq4thxJnLnx2NyqqMIDSWHoU/edit?usp=sharing)
+- [Literature review](https://docs.google.com/spreadsheets/d/1HVmVpj6bgk3F9iZ8Wj2Kq4thxJnLnx2NyqqMIDSWHoU/edit?usp=sharing)
