@@ -1,4 +1,4 @@
-# Motorbike License Plate Recognition
+# License Plate Recognition
 ## AIP391 - Fall 2021 - AI1503
 
 ## Group 5 - Contributors
@@ -17,17 +17,11 @@
 ### Parts of Project
 - Detection:
     Finds potential license plate regions
-- Binarization:
-    Convert plate regions into black and white for better recognisation
-- Character Analysis:
-    Finds character-sized "blobs" in the plate regions
-- Plate edges:
-    Find edges/shape of license plate
 - Deskew:
     Transforms the perspective to a straight-on view based on the ideal license plate size
+- Binarization:
+    Convert plate regions into black and white for better recognisation
 - Chracter segmentation:
     Isolates and cleans up the characters so that they can be processed individualy
 - OCR:
     Analyzes each character image and provides multiple possible letters
-- Post processing:
-    Creates a top n list of plate possilbilities based on OCR confidences
